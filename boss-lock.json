@@ -1,0 +1,22 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2022-06-26T21:59:10.357302-03:00",
+	"installedModules": {
+		"https://github.com/carloshe/codec-base32": {
+			"name": "codec-base32",
+			"version": "1.0.2",
+			"hash": "f54d81d4629c57f33728f50e9e7276fb",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/carloshe/otp": {
+			"name": "otp",
+			"version": "1.0.3",
+			"hash": "a6d2029d1d43594b0c5a1bb959df4daf",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}

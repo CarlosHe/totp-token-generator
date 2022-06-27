@@ -1,0 +1,11 @@
+{
+	"name": "totp-token-generator",
+	"description": "TOTP Token Generator",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/totp-token-generator",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/carloshe/otp": "^1.0.3"
+	}
+}
